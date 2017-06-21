@@ -11,11 +11,11 @@
   name = "github.com/getsentry/raven-go"
   packages = ["."]
   revision = "221b2b44fb33f84ed3ea13f3aed62ff48c85636b"
-  source = "github.com/cockroachdb/raven-go"
+  source = "https://github.com/cockroachdb/raven-go"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "e2d882719b2ab1b687e1f0406128b2922572b42e062a7e82cdccc09011a879c8"
+  inputs-digest = "96b7de989d26dbfb11e8e2ee962a86614271f9b4b0112877c216213b2bdfd640"
   solver-name = "gps-cdcl"
   solver-version = 1

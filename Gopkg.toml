@@ -1,4 +1,5 @@
 [[constraint]]
   name = "github.com/getsentry/raven-go"
   revision = "221b2b44fb33f84ed3ea13f3aed62ff48c85636b"
-  source = "github.com/cockroachdb/raven-go"
+  source = "https://github.com/cockroachdb/raven-go"
+
